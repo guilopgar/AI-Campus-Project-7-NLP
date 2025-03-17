@@ -1,1 +1,1 @@
-# AI-Campus-Project-7-NLP
+# AI Campus @ Cedars-Sinai Project 7: NLP in Cancer
