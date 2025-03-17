@@ -1,1 +1,3 @@
 # AI Campus @ Cedars-Sinai Project 7: NLP in Cancer
+
+This project focuses on leveraging natural language processing (NLP) techniques to extract critical information from pathology reports. Participants will gain hands-on experience with a wide range of text classification methods, from traditional tf-idf analysis to cutting-edge large language models. The Cancer Genome Atlas (TCGA) pathology report corpus used in this project offers a unique opportunity for the development of advanced NLP technologies that can ultimately enhance patient diagnosis, treatment selection, and many other aspects of cancer care.
