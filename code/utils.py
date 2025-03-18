@@ -7,7 +7,7 @@ def value_dist(dict_data):
         data = dict_data[name].value_counts()
         n = data.sum()
         data_counts = {
-            key: f"{value} ({round(value/n*100)}%)"
+            key: f"{value} ({round(value/n*100, 1)}%)"
             for key, value in data.to_dict().items()
         }
         dict_res[name] = data_counts
