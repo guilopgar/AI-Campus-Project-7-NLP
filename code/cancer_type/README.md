@@ -3,13 +3,16 @@
 - Python 3.6 or higher
 - pandas library
 - jupyter library
+- matplotlib
+- scikit-learn
+- nltk
 
 ## Conda environment
 
 ### Create environment
 
 ```bash
-conda create -n ai-campus python=3
+conda create -n my-env python=3
 ```
 
 Replace `my-env` with the name of your environment, e.g. `ai-campus`
@@ -26,4 +29,6 @@ conda activate my-env
 conda install pandas
 conda install jupyter
 conda install matplotlib
+conda install scikit-learn
+conda install nltk
 ```
