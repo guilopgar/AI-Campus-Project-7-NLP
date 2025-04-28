@@ -6,6 +6,7 @@
 - matplotlib
 - scikit-learn
 - nltk
+- plotly
 
 ## Conda environment
 
